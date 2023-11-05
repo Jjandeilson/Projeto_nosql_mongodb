@@ -1,0 +1,6 @@
+_id,marca,modelo,ano,preco,categoria,tipo
+6543f3b24f8268691ff5831c,Chevrolet,Onix,2024,85000,SUV,Seminovo
+65477fcfa273a77199f3ed22,Chevrolet,Cruze,2023,149.390,SEDAN,Novo
+654780bba273a77199f3ed23,Chevrolet,Montana,2023,122.780,Picape,Novo
+6547813fa273a77199f3ed24,Volkswagen,Jetta,2024,150.000,SUV,Seminovo
+65478167a273a77199f3ed25,Volkswagen,Nivus,2024,170.000,SEDAN,Seminovo
